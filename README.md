@@ -1,12 +1,4 @@
-# CSE-MIT-AI-CookieSim
+Designer view: ![image](https://github.com/user-attachments/assets/c0fbb801-27c6-4f94-82d3-e0877eb10d59)
+Block view: ![image](https://github.com/user-attachments/assets/27f060ce-c50a-41a7-9dd8-62550ff7c459)
 
-In this repository you will be turning in your cookie clicker sim created on MIT app inventor
-
-## What to include
-
-1. Your source file, this can be obtained by clicking on Projects / Export selected project to my computer![image](https://github.com/user-attachments/assets/f99cff16-16e3-4e1e-afc7-9da69f0e47f4) __place on files__ Use the file upload
-2. Image of your design view, __place on read me__ via screenshot then copy paste
-3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
-4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
-
-
+Reflection: I think i could have made the designer view part look a bit cooler. Its nice and all but I think I can still work on it. The block part was pretty simple, no comments for that.
